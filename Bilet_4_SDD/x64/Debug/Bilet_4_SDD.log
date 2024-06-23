@@ -1,0 +1,5 @@
+﻿  Rezervare.c
+C:\Users\Gucci\Desktop\SDD\Bilet_4_SDD\Rezervare.c(21,50): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Bilet_4_SDD\Rezervare.c(22,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Bilet_4_SDD\Rezervare.c(114,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Bilet_4_SDD.vcxproj -> C:\Users\Gucci\Desktop\SDD\Bilet_4_SDD\x64\Debug\Bilet_4_SDD.exe
