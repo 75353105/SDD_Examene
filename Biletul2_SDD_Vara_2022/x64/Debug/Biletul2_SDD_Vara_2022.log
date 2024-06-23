@@ -1,0 +1,5 @@
+﻿  Proiect.c
+C:\Users\Gucci\Desktop\SDD\Biletul2_SDD_Vara_2022\Proiect.c(17,42): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Biletul2_SDD_Vara_2022\Proiect.c(18,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Biletul2_SDD_Vara_2022\Proiect.c(124,8): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Biletul2_SDD_Vara_2022.vcxproj -> C:\Users\Gucci\Desktop\SDD\Biletul2_SDD_Vara_2022\x64\Debug\Biletul2_SDD_Vara_2022.exe
