@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Gucci\Desktop\SDD\Biletul 9_iulie_2021\Source.c(34,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Biletul 9_iulie_2021\Source.c(35,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Biletul 9_iulie_2021\Source.c(72,3): warning C4013: 'strpcy' undefined; assuming extern returning int
+Source.obj : error LNK2019: unresolved external symbol strpcy referenced in function initializareProgram
+C:\Users\Gucci\Desktop\SDD\Biletul 9_iulie_2021\x64\Debug\Biletul 9_iulie_2021.exe : fatal error LNK1120: 1 unresolved externals
