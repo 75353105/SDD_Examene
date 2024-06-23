@@ -1,0 +1,6 @@
+﻿  ConturiBancare.c
+C:\Users\Gucci\Desktop\SDD\Bilet_4_Sdd_2021\ConturiBancare.c(16,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Bilet_4_Sdd_2021\ConturiBancare.c(17,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Bilet_4_Sdd_2021\ConturiBancare.c(136,8): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Bilet_4_Sdd_2021\ConturiBancare.c(241,1): warning C4047: 'initializing': 'Nod *' differs in levels of indirection from 'Nod **'
+  Bilet_4_Sdd_2021.vcxproj -> C:\Users\Gucci\Desktop\SDD\Bilet_4_Sdd_2021\x64\Debug\Bilet_4_Sdd_2021.exe
