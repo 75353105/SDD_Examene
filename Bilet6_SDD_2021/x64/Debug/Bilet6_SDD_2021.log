@@ -1,0 +1,4 @@
+﻿  Comenzi.c
+C:\Users\Gucci\Desktop\SDD\Bilet6_SDD_2021\Comenzi.c(19,41): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Bilet6_SDD_2021\Comenzi.c(20,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Bilet6_SDD_2021.vcxproj -> C:\Users\Gucci\Desktop\SDD\Bilet6_SDD_2021\x64\Debug\Bilet6_SDD_2021.exe
